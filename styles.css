@@ -28,5 +28,6 @@ li a:hover
 
 .sloganimage 
 {
-  width: 100vw;
+  max-width: 100%;
+  height: auto;
 }
