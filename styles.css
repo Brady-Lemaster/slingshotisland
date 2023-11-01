@@ -2,10 +2,10 @@ ul
 {
   list-style-type: none;
   margin: 0;
-  margin-bottom: 4px;
+  margin-bottom: 8px;
   padding: 0;
   overflow: hidden;
-  background-color: #442244;
+  background-color: #332233;
 }
 
 li 
@@ -24,7 +24,7 @@ li a
 
 li a:hover 
 {
-  background-color: #220022;
+  background-color: #110011;
 }
 
 .sloganimage 
