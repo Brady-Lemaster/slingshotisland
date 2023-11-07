@@ -44,7 +44,7 @@ li a:hover
 .bigimage
 {
   width: 
-    100%;
+    100vw;
   height: 
     auto;
   overflow: 
