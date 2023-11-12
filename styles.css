@@ -62,3 +62,15 @@ li a:hover
   margin-bottom: 
     8px;
 }
+
+.gptesmallimage
+{
+  width: 
+    20vw;
+  height: 
+    20vw;
+  overflow: 
+    hidden;
+  margin: 
+    8px;
+}
